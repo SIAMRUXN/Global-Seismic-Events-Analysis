@@ -1,4 +1,4 @@
-This personal project is an analysis of Crop Production data from https://www.kaggle.com/datasets/pulastya/global-seismic-events-20002025.
+This personal project is an analysis of earthquake events data from https://www.kaggle.com/datasets/pulastya/global-seismic-events-20002025.
 
 Using SQL,Python and Tableau to perfrom various data analysis and visualization.
 
